@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OIOl.skp\\source\\repos\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {}
+    "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OIOl.skp\\source\\repos\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {
+    "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OIOl.skp\\source\\repos\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
+        "projectUniqueName": "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
         "projectName": "TingOgSagerMedPoul",
-        "projectPath": "C:\\Users\\OIOl.skp\\source\\repos\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
-        "packagesPath": "C:\\Users\\OIOl.skp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OIOl.skp\\source\\repos\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\obj\\",
+        "projectPath": "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
+        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
+        "outputPath": "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OIOl.skp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -9,3 +9,14 @@ C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\n
 C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.AssemblyInfo.cs
 C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.dll
 C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.pdb
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.exe
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.deps.json
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.runtimeconfig.json
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.runtimeconfig.dev.json
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.dll
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.pdb
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.csprojAssemblyReference.cache
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.AssemblyInfoInputs.cache
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.AssemblyInfo.cs
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.dll
+F:\GitKraken\opgaver\TingOgSagerMedPoul\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.pdb

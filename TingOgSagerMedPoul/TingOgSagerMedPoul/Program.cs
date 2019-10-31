@@ -52,14 +52,19 @@ namespace TingOgSagerMedPoul
             myMachine.waterAmount = 10000;
 
             //===============================================================:D
+            Console.WriteLine("The machine is occupied currently: " + myCup.bPlacedInMachine);
 
-
+            myMachine.PlaceCup(myCup);
+            Console.WriteLine("you press *Coffee* and the machine starts humming");
             myCup.Fill(myMachine.FillingCupCoffee());
-            Console.WriteLine(myCup.currentVolume);
+            Console.WriteLine("\nYour cup has sucesfully been filled with " + myCup.currentVolume + " dl coffee");
+            Console.ReadLine();
 
-
+            myMachine.RemoveCup();
+            Console.WriteLine("sadsd");
+            Console.ReadLine();
             myMachine.PlaceCup(poulCup);
-            Console.WriteLine("Vi er placeret i maskine?: " + myCup.bPlacedInMachine);
+            Console.WriteLine("Pouls cup placed sucesfully: " + myCup.bPlacedInMachine);
             myCup.Fill(myMachine.FillingCupCoffee());
             Console.WriteLine(myCup.currentVolume);
             myMachine.PlaceCup(myCup);
