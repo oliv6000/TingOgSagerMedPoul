@@ -1,0 +1,11 @@
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.exe
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.deps.json
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.runtimeconfig.json
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.runtimeconfig.dev.json
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.dll
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\bin\Debug\netcoreapp3.0\TingOgSagerMedPoul.pdb
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.csprojAssemblyReference.cache
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.AssemblyInfoInputs.cache
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.AssemblyInfo.cs
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.dll
+C:\Users\OIOl.skp\source\repos\TingOgSagerMedPoul\TingOgSagerMedPoul\obj\Debug\netcoreapp3.0\TingOgSagerMedPoul.pdb
