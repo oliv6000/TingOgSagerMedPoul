@@ -8,13 +8,17 @@ namespace TingOgSagerMedPoul
     {
         public string hairColor;
         public string name;
-        public bool bCurrentlySittingOnTable;
         public string bodyWear;
-        public double hairLength;
+
+        public bool bCurrentlySittingOnTable;
         public bool bOwnsACar;
+
+        public double hairLength;
 
         public int LifeForce;
 
+
+        //  function/metode
         public void DriveToMcD()
         {
             if (bOwnsACar)
@@ -42,6 +46,8 @@ namespace TingOgSagerMedPoul
             }
         }
 
+
+        // Denne her bliver ikke brugt!
         public Program Programming() // bare et meme Mads, okay?
         {
             Program program = new Program();
@@ -49,10 +55,5 @@ namespace TingOgSagerMedPoul
 
             return program;
         }
-
-
-
-        // det var det han kunne
-
     }
 }

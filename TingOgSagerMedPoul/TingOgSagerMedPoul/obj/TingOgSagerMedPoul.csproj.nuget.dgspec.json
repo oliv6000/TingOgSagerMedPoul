@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {}
+    "C:\\GitKrakenHjemmeArbejde\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {}
   },
   "projects": {
-    "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {
+    "C:\\GitKrakenHjemmeArbejde\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
+        "projectUniqueName": "C:\\GitKrakenHjemmeArbejde\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
         "projectName": "TingOgSagerMedPoul",
-        "projectPath": "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
-        "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-        "outputPath": "F:\\GitKraken\\opgaver\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\obj\\",
+        "projectPath": "C:\\GitKrakenHjemmeArbejde\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul.csproj",
+        "packagesPath": "C:\\Users\\OIOl.skp\\.nuget\\packages\\",
+        "outputPath": "C:\\GitKrakenHjemmeArbejde\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\TingOgSagerMedPoul\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OIOl.skp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

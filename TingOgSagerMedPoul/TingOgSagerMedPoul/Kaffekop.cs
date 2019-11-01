@@ -9,14 +9,13 @@ namespace TingOgSagerMedPoul
         
         
         public double diameter; //In centimeters
-
-
         public double height;
-        public string color;
         public double maxVolume;
         public double currentVolume;
-        public bool bContainsLiquid;
 
+        public string color;
+
+        public bool bContainsLiquid;
         public bool bPlacedInMachine;
 
         public Huuman owner;
