@@ -1,8 +1,175 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Threading;
 
 namespace TingOgSagerMedPoul
 {
+    class Huuman
+    {
+        public string hairColor;
+        public string name;
+        public string bodyWear;
+
+        public bool bCurrentlySittingOnTable;
+        public bool bOwnsACar;
+
+        public double hairLength;
+
+        public int LifeForce;
+
+
+        //  function/metode
+        public void DriveToMcD()
+        {
+            if (bOwnsACar)
+            {
+                Console.WriteLine("Niclas is now on his way to the McD, for more soul sucking!");
+            }
+            else
+            {
+                Console.WriteLine("Niclas does not own a car.");
+            }
+        }
+
+        public void SuckSoul(Huuman prey)
+        {
+            if (hairColor.ToLower().Trim() == "red")
+            {
+                int damage = 30;
+                LifeForce += damage;
+                prey.LifeForce -= damage;
+
+            }
+            else
+            {
+                Console.WriteLine("ability failed - User not ginger");
+            }
+        }
+
+
+        // Denne her bliver ikke brugt!
+        public Program Programming() // bare et meme Mads, okay?
+        {
+            Program program = new Program();
+            LifeForce -= 5;
+
+            return program;
+        }
+    }
+    class Kaffekop
+    {
+
+
+        public double diameter; //In centimeters
+        public double height;
+        public double maxVolume;
+        public double currentVolume;
+
+        public string color;
+
+        public bool bContainsLiquid;
+        public bool bPlacedInMachine;
+
+        public Huuman owner;
+
+        public void Fill(double liquidAmount)
+        {
+            if (bPlacedInMachine)
+            {
+                if (liquidAmount > 0)
+                {
+                    bContainsLiquid = true;
+                    currentVolume = currentVolume + liquidAmount;
+                    if (currentVolume > maxVolume)
+                    {
+                        currentVolume = maxVolume;
+                    }
+                }
+            }
+        }
+        public void Empty(double liquidAmount)
+        {
+            if (liquidAmount > 0)
+            {
+                currentVolume = currentVolume - liquidAmount;
+                if (currentVolume <= 0)
+                {
+                    currentVolume = 0;
+                    bContainsLiquid = false;
+                }
+                else
+                {
+                    bContainsLiquid = true;
+                }
+            }
+
+
+
+        }
+
+    }
+    class CoffeMachine
+    {
+        public bool bContainsCocoPowder;
+        public bool bContainsCoffeePowder;
+        public bool bContainsWater;
+        public bool bCupRegistered;
+        public bool bPowerConnected;
+
+        public double cocoAmount;
+        public double coffeeAmount;
+        public double waterAmount;
+
+        public Kaffekop RegisteredCup;
+
+
+        public double FillingCupCoffee()
+        {
+            if (bCupRegistered && bPowerConnected)
+            {
+                if (bContainsWater && bContainsCoffeePowder)
+                {
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Currently brewing your coffee!");
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    Thread.Sleep(1800);
+                    double fillingAmount = 4.5; //dl //hardcoded med vilje
+                    return fillingAmount;
+                }
+
+            }
+            return 0;
+        }
+
+        public void PlaceCup(Kaffekop Cup)
+        {
+            if (!bCupRegistered)
+            {
+                RegisteredCup = Cup;
+                bCupRegistered = true;
+                Cup.bPlacedInMachine = true;
+                Console.WriteLine("\nPlacing cup");
+                Thread.Sleep(1500);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Cup placed successfully.\n");
+                Console.ForegroundColor = ConsoleColor.Gray;
+            }
+            else
+            {
+                Cup.bPlacedInMachine = false;
+                Console.WriteLine("Couldn't place cup. Already cup there\n");
+            }
+        }
+
+
+        public void RemoveCup()
+        {
+            RegisteredCup = null;
+            bCupRegistered = false;
+        }
+
+    }
     class Program
     {
         static void Main(string[] args)
